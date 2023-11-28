@@ -1,0 +1,42 @@
+### INFOS ###
+
+A tag !DOCTYPE ajuda os browsers a identificar qual o tipo de linguagem usado
+e se otimizar para a mesma.
+
+----------------------------------------------------------------
+### TAGS BÁSICAS ###
+
+<meta> -> define algumas informações sobre nosso documento e as transfere para o browser. Algumas dessas
+informações podem ser tipo de caracteres usados (charset="utf-8"), descição do site (description)
+
+<h1>- <h6> -> é uma tag que define um header, ou seja, um titulo possuindo tamanhos variados de h1 até h6,
+sendo esse último o menor tamanho e vice-versa.
+
+<p> -> tag que define parágrafos ou o contexto de algo no site.
+
+<b> -> tag que estiliza o pedaço de texto inserido entre sua tag de abertura e fechamento, dando o estilo
+de negrito.
+
+<i> -> tag que estiliza o pedaço de texto inserido entre sua tag de abertura e fechamento, dando o estilo
+de italico.
+
+<br/> gera uma quebra de linha entre elementos.
+
+<hr/> -> gera uma linha horizontal entre elementos.
+
+<big> -> essa tag faz com que o pedaço de texto inserido entre ela, fique o tamanho um pouco maior
+como forma de destaque por assim dizer.
+
+<small> -> como o nome da tag ja diz institivamente, ela faz o oposto da tag big.
+
+<sub> faz com que elementos fiquem com a formatação no estilo de elementos "quimicos", por exemplo
+com uma letra ou numero abaixo do nivel do texto.
+
+<sup> -> essa tag faz elementos ficarem com a formatação no estilo de expressão matemática, onde se
+tem a exponenciação = 10².
+
+<!-- --> Comentario.
+
+style -> é uma atributo e pode ser usado dentro das tags para mudar o estilo do elemento que você
+deseja, tais como fonte, cor, cor de fundo e etc.
+
